@@ -7,3 +7,6 @@ print(a,¨+¨,b,¨=¨,sum)
 print(¨***resta***¨)
 rest=a-b
 print(a,¨-¨,b,¨=¨,rest)
+print(¨***multiplicacion***¨)
+mult=a*b
+print(a,¨x¨,b¨=¨,mult)
